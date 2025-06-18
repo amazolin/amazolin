@@ -3,7 +3,7 @@
 
 I'm a Brazilian tech enthusiast currently studying Systems Analysis at FATEC Guarulhos.  
 I'm passionate about technology, problem-solving, and building useful things — whether for mobile or desktop.  
-I’ve been exploring different tools, learning every day, and constantly working to improve my code and problem-solving skills.
+I’ve been exploring different tools and constantly working to improve my code and problem-solving skills.
 
 Feel free to check out my projects, follow my journey, or connect with me!
 <br><br>
