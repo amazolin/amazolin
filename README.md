@@ -49,3 +49,12 @@ Feel free to check out my projects, follow my journey, or connect with me!
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amazolin&theme=radical"/>
 
 </div>
+
+.box {
+  border: 1px solid #ccc;  /* borda cinza clara */
+  padding: 16px;           /* espaço interno */
+  margin-bottom: 16px;     /* espaço entre as caixas */
+  border-radius: 8px;      /* borda arredondada (opcional) */
+  background-color: #f9f9f9; /* cor de fundo leve (opcional) */
+}
+
