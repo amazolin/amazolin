@@ -1,15 +1,14 @@
 ## Hi there, I'm Danilo Zamai 👋
 
 
-I'm a Brazilian tech enthusiast and currently studying Systems Analysis at FATEC Guarulhos.
-
-I’m passionate about technology, problem solving, and building useful stuff — whether it’s for mobile or desktop.  
-I’ve been exploring different tools, learning every day, and always trying to improve my code and my thinking.
+I'm a Brazilian tech enthusiast currently studying Systems Analysis at FATEC Guarulhos.  
+I'm passionate about technology, problem-solving, and building useful things — whether for mobile or desktop.  
+I’ve been exploring different tools, learning every day, and constantly working to improve my code and problem-solving skills.
 
 Feel free to check out my projects, follow my journey, or connect with me!
 <br><br>
 
-<div class="box">
+<div style="border: 1px solid #ccc; padding: 16px; margin-bottom: 16px; border-radius: 8px; background-color: #f9f9f9;">
 <h3>🧠 Programming Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="margin-right: 20px;"/>
@@ -49,12 +48,4 @@ Feel free to check out my projects, follow my journey, or connect with me!
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amazolin&theme=radical"/>
 
 </div>
-
-.box {
-  border: 1px solid #ccc;  /* borda cinza clara */
-  padding: 16px;           /* espaço interno */
-  margin-bottom: 16px;     /* espaço entre as caixas */
-  border-radius: 8px;      /* borda arredondada (opcional) */
-  background-color: #f9f9f9; /* cor de fundo leve (opcional) */
-}
 
