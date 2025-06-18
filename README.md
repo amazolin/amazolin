@@ -1,11 +1,13 @@
 ## Hi there, I'm Danilo Zamai 👋
 
+
 I'm a Brazilian tech enthusiast and currently studying Systems Analysis at FATEC Guarulhos.
 
 I’m passionate about technology, problem solving, and building useful stuff — whether it’s for mobile or desktop.  
 I’ve been exploring different tools, learning every day, and always trying to improve my code and my thinking.
 
 Feel free to check out my projects, follow my journey, or connect with me!
+
 
 <h3>🧠 Linguagens de Programação</h3>
 <p align="left">
@@ -27,3 +29,18 @@ Feel free to check out my projects, follow my journey, or connect with me!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
 </p>
 
+
+## 📊 My Stats
+
+<div align="center">
+
+<!-- GitHub Readme Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amazolin&show_icons=true&theme=radical&count_private=true"/>
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amazolin&layout=compact&theme=radical"/>
+
+<!-- GitHub Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amazolin&theme=radical"/>
+
+</div>
