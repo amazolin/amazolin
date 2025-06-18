@@ -8,7 +8,7 @@ I’ve been exploring different tools, learning every day, and constantly workin
 Feel free to check out my projects, follow my journey, or connect with me!
 <br><br>
 
-<div style="border: 1px solid #ccc; padding: 16px; margin-bottom: 16px; border-radius: 8px; background-color: #f9f9f9;">
+
 <h3>🧠 Programming Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="margin-right: 20px;"/>
@@ -30,7 +30,7 @@ Feel free to check out my projects, follow my journey, or connect with me!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" style="margin-right: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" style="margin-right: 20px;"/>
 </p>
-</div>
+
 <br><br>
 
 
