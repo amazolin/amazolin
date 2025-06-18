@@ -35,8 +35,6 @@ Feel free to check out my projects, follow my journey, or connect with me!
 
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
-
-
 <br><br>
 
 
