@@ -49,7 +49,8 @@ Feel free to check out my projects, follow my journey, or connect with me!
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amazolin&layout=compact&theme=radical"/>
 
 <!-- GitHub Streak Stats -->
-<img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amazolin&theme=radical"/>
+<img height="280em" src="https://streak-stats.demolab.com?user=Amazolin&theme=radical"/>
 
 </div>
+
 
